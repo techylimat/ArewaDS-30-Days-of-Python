@@ -6,4 +6,5 @@ This is to equip us with the basic knowledge of python ranging from data types, 
 
 ### Repository Overview
 -Each day of the challenge is organised into seperate folders, labeled Day1 to 30.
+
 -In each day's folder, you will find the assignment files and any additional resources or notes related to that day's topic.
